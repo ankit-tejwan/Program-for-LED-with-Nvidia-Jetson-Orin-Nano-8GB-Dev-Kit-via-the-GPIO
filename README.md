@@ -1,8 +1,11 @@
 # Program for LED with Nvidia Jetson Orin Nano 8GB Dev Kit via the GPIO
 
 # GPIO Config
+
 <img width="1172" height="638" alt="image" src="https://github.com/user-attachments/assets/2846bf0f-523d-4c43-846f-883977d934fa" />
 
+ Reference URL :
+https://developer.download.nvidia.com/assets/embedded/secure/jetson/orin_nano/docs/Jetson-Orin-Nano-DevKit-Carrier-Board-Specification_SP-11324-001_v1.3.pdf
 
 Connection Setup up the hardware
 
