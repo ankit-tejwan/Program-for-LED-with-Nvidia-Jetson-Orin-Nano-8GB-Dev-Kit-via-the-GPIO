@@ -1,5 +1,12 @@
 # Program for LED with Nvidia Jetson Orin Nano 8GB Dev Kit via the GPIO
+
+# GPIO Config
+<img width="1172" height="638" alt="image" src="https://github.com/user-attachments/assets/2846bf0f-523d-4c43-846f-883977d934fa" />
+
+
 Connection Setup up the hardware
+
+
 First make sure we have the correct orientation.
 
 Rotate the jetson until the RJ45 is facing down, and we can see the word Nvidia is on the left side.
