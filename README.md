@@ -11,8 +11,18 @@ Connect the pin7 to the positive of LED (longer leg), indicated by a white wire.
 # How to program
 sudo pip install Jetson.GPIO
 
+# code in script.py
+
 # Run script.py
 
+#⚡ What comes out of your pin (Pin 7)
+🔹 Voltage
+
+When you set the pin HIGH in your script:
+≈ 3.3 volts
+
+When LOW:
+0 volts
 
 
 ![Use_LED_with_Nvidia_Jetson_Orin_Nano_8GB_Dev_Kit_via_the_GPI](https://github.com/user-attachments/assets/68b4cd98-804c-41f7-809c-d59535ffe5a9)
