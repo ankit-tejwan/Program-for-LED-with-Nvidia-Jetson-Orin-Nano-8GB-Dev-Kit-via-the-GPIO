@@ -8,6 +8,9 @@ Connect the ground (pin 6) to the negative of LED (shorter leg), indicated by th
 
 Connect the pin7 to the positive of LED (longer leg), indicated by a white wire.
 
+# How to program
+sudo pip install Jetson.GPIO
+
 # Run script.py
 
 
