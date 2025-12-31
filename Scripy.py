@@ -1,5 +1,4 @@
-# Program for LED with Nvidia Jetson Orin Nano 8GB Dev Kit via the GPIO
-```python 
+
 import Jetson.GPIO as GPIO
 import time
 
@@ -25,4 +24,4 @@ finally:
     GPIO.cleanup()
 
 
-```
+
