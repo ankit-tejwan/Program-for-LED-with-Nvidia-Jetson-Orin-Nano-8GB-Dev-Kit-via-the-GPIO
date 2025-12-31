@@ -9,3 +9,7 @@ Connect the ground (pin 6) to the negative of LED (shorter leg), indicated by th
 Connect the pin7 to the positive of LED (longer leg), indicated by a green wire.
 
 # Run script.py
+
+
+
+![Use_LED_with_Nvidia_Jetson_Orin_Nano_8GB_Dev_Kit_via_the_GPI](https://github.com/user-attachments/assets/68b4cd98-804c-41f7-809c-d59535ffe5a9)
