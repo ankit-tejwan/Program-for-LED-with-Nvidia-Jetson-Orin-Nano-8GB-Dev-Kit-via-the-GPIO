@@ -1,4 +1,11 @@
 # Program for LED with Nvidia Jetson Orin Nano 8GB Dev Kit via the GPIO
-Connection Diagram
-<img width="1561" height="1068" alt="image" src="https://github.com/user-attachments/assets/102d37eb-4d3a-4a25-99e3-4f19c4071dcc" />
+Connection Setup up the hardware
+First make sure we have the correct orientation.
 
+Rotate the jetson until the RJ45 is facing down, and we can see the word Nvidia is on the left side.
+
+Connect the ground (pin 6) to the negative of LED (shorter leg), indicated by the orange wire.
+
+Connect the pin7 to the positive of LED (longer leg), indicated by a green wire.
+
+# Run script.py
