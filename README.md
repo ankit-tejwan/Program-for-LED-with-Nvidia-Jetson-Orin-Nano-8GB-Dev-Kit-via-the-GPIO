@@ -4,9 +4,9 @@ First make sure we have the correct orientation.
 
 Rotate the jetson until the RJ45 is facing down, and we can see the word Nvidia is on the left side.
 
-Connect the ground (pin 6) to the negative of LED (shorter leg), indicated by the orange wire.
+Connect the ground (pin 6) to the negative of LED (shorter leg), indicated by the black wire.
 
-Connect the pin7 to the positive of LED (longer leg), indicated by a green wire.
+Connect the pin7 to the positive of LED (longer leg), indicated by a white wire.
 
 # Run script.py
 
